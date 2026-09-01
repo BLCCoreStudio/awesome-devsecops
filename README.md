@@ -77,7 +77,7 @@ We've discovered a treasure trove of mailing lists and newsletters where DevSecO
 
 * [AWS Security](https://aws.amazon.com/security/)
 * [Azure Security](https://azure.microsoft.com/en-us/overview/security/)
-* [Ruby Weekly](http://rubyweekly.com/)
+* [Ruby Weekly](http://rubyweekly.com)
 * [Security Newsletter](https://securitynewsletter.co/)
 * [SRE Weekly](https://sreweekly.com/)
 
@@ -151,7 +151,7 @@ A small collection of DevOps and Security podcasts.
 * [Social Engineering Podcast](http://www.social-engineer.org/category/podcast/)
 * [Software Engineering Radio](http://www.se-radio.net/team/kim-carter/)
 * [Take 1 Security Podcast](https://danielmiessler.com/podcast/)
-* [Tenable Security Podcast](http://www.tenable.com/podcast/)
+* [Tenable Security Podcast](http://www.tenable.com/podcast)
 * [The Secure Developer](http://www.heavybit.com/library/podcasts/the-secure-developer/)
 * [Trusted Sec Podcast](https://www.trustedsec.com/podcast/)
 
@@ -243,10 +243,10 @@ There are many sources for Threat Intelligence in the world.  Some of these come
 
 * [Alien Vault OTX](https://otx.alienvault.com/)
 * [Critical Stack](https://intel.criticalstack.com)
-* [IBM X-Force](https://exchange.xforce.ibmcloud.com/)
+* [IBM X-Force](https://exchange.xforce.ibmcloud.com)
 * [IntelMQ Feeds](https://github.com/certtools/intelmq-feeds-documentation)
-* [OpenTPX](https://www.opentpx.org/)
-* [Passive Total](https://www.passivetotal.org/)
+* [OpenTPX](https://www.opentpx.org)
+* [Passive Total](https://www.passivetotal.org)
 * [STIX, TAXII](https://oasis-open.github.io/cti-documentation/)
 * [Threat Connect](https://threatconnect.com/)
 
@@ -298,7 +298,7 @@ A collection of tools to help with sharing knowledge and telling the story.
 One of the greatest changes you can make in your organization is boundaryless communications.  Setting up ChatOps can enable everyone to come together and solve problems.
 
 * [Gitter](https://gitter.im)
-* [HipChat](https://hipchat.com/)
+* [HipChat](https://hipchat.com)
 * [MatterMost](https://mattermost.com/)
 * [Riot](https://riot.im/)
 * [Slack](https://slack.com)
